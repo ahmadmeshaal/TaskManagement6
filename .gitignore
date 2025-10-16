@@ -1,0 +1,20 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+
+# Video files
+*.mp4
+*.mov
+
+# Gradle / Build files
+.gradle/
+
+# Node / Frontend build files (if any)
+node_modules/
+dist/
