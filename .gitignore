@@ -8,6 +8,8 @@ obj/
 *.log
 *.tmp
 
+task-management-frontend/
+
 # Video files
 *.mp4
 *.mov
